@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Mr-dinesh1
-- 👀 I’m passionate in Full-Stack-Web-Develpement
-- 🌱 I’m currently learning MERN Stack
+- 👀 I’m passionate in Didital Marketing
 - 💞️ I’m looking to Job on ...
--  💞️ I’m looking to collaborate on ...
+- 🌱 I’m looking to collaborate on ...
 - 📫 How to reach me Email:dineshkumardk0921@gmail.com
 
 <!---
